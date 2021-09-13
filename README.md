@@ -8,5 +8,6 @@
 1. JS
 1. Inne
    -Git
+   -makiety aplikacji
 
 ***
