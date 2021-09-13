@@ -4,10 +4,10 @@
 ***
 1. HTML5
 1. CSS  
-   -SAS
+   - SAS
 1. JS
 1. Inne
-   -Git
-   -makiety aplikacji
+   - Git
+   - makiety aplikacji
 
 ***
